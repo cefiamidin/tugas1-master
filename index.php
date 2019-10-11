@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
   <head>
-    <title>Tugas 1 Master</title>
+    <title>TUGAS 1 MASTER</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="css/custom-bs.css">
@@ -11,9 +11,12 @@
     <link rel="stylesheet" href="fonts/line-icons/style.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/animate.min.css">
-    <link rel="stylesheet" href="css/style.css">    
+    <link rel="stylesheet" href="css/style.css">
   </head>
   <body id="top">
+
+
+      <!-- <div id="ininet"></div> -->
 
 
 <div class="site-wrap">
@@ -26,19 +29,14 @@
       </div>
       <div class="site-mobile-menu-body"></div>
     </div> <!-- .site-mobile-menu -->
-    
+
 
     <!-- NAVBAR -->
     <header class="site-navbar mt-3">
       <div class="container-fluid">
         <div class="row align-items-center">
-          <div class="site-logo col-6"><a href="index.html">MASTER</a></div>
-
-          
+          <div class="site-logo col-6"><a href="index.html">TUGAS 1 MASTER</a></div>
           <div class="right-cta-menu text-right d-flex aligin-items-center col-10">
-            <div class="ml-auto">
-              <a href="contact.html" class="btn btn-primary border-width-2 d-none d-lg-inline-block"><span class="mr-2 icon-paper-plane"></span>Contact Us</a>
-            </div>
             <a href="#" class="site-menu-toggle js-menu-toggle d-inline-block d-xl-none mt-lg-2 ml-3"><span class="icon-menu h3 m-0 p-0 mt-2"></span></a>
           </div>
 
@@ -47,18 +45,25 @@
     </header>
 
     <!-- HOME -->
-    <section class="home-section section-hero overlay bg-image" style="background-image: url('images/hero_1.jpg');" id="home-section">
+    <section class="home-section section-hero overlay bg-image" id="ininet">
 
+
+
+      <div class="container">
+        <div class="row align-items-center justify-content-center">
+          <div class="col-md-12">
+            <div class="mb-5 text-center">
+              <h1 class="text-white font-weight-bold">MASTER</h1>
+
+            </div>
 			<center>
-            <form method="post" class="search-jobs-form">
-              <div class="row mb-5">
-                <div class="col-12 col-sm-6 col-md-6 col-lg-3 mb-4 mb-lg-0">
-                  <input type="text" class="form-control form-control-lg" placeholder="Nama Ruangan">
-                </div>
-                <div class="col-12 col-sm-6 col-md-6 col-lg-3 mb-4 mb-lg-0">
-                  <button type="submit" class="btn btn-primary btn-lg btn-block text-white btn-search">
-				  <span class="icon-search icon mr-2"></span>Cari Ruangan</button>
-                </div>
+        <table>
+          <tr>
+        <td><h4 class="text-white"> Cefi Amidin M | </h4></td>
+        <td><h4 class="text-white"> M Naufal fadhlur R | </h4></td>
+        <td><h4 class="text-white"> Yogi Kusuma Santika | </h4></td>
+        <td><h4 class="text-white"> M Reza Febriana | </h4></td>
+        <td><h4 class="text-white"> Rangga R </h4></td>
               </div>
 			  </center>
             </form>
@@ -66,5 +71,12 @@
         </div>
       </div>
     </section>
+    <script src="js/three.r92.min.js"></script>
+    <script src="js/vanta.net.min.js"></script>
+    <script>
+        VANTA.NET({
+            el: "#ininet"
+        })
+    </script>
   </body>
 </html>
