@@ -60,7 +60,7 @@
         <table>
           <tr>
         <td><a href="https://tugas1-101162xx-11.herokuapp.com/" h4 class="text-white"> Cefi Amidin M | </a></h4></td>
-        <td><h4 class="text-white"> M Naufal fadhlur R | </h4></td>
+        <td><a href="https://tugas1-101162xx-13.herokuapp.com/"h4 class="text-white"> M Naufal fadhlur R | </a></h4></td>
         <td><a href="https://tugas1-101163xx-36.herokuapp.com/"h4 class="text-white"> Yogi Kusuma Santika | </a></h4></td>
         <td><a href="https://tugas1-101163xx-28.herokuapp.com"h4 class="text-white"> M Reza Febriana |</a> </h4></td>
         <td><h4 class="text-white"> Rangga R </h4></td>
