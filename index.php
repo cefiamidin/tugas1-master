@@ -65,8 +65,8 @@
         <td><a href="https://tugas1-101162xx-28.herokuapp.com/"h4 class="text-white"> M Reza Febriana |</a> </h4></td>
         <td><h4 class="text-white"> Rangga R </h4></td>
          </tr>
-         <tr>
-           <td><h2 class="text-white font-weight-bold">Konten tugas google drive</h2>
+           <h2 class="text-white font-weight-bold">Konten tugas google drive</h2>
+
               </div>
 			  </center>
             </form>
