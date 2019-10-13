@@ -66,7 +66,7 @@
         <td><a href ="https://tugas1-101162xx-19.herokuapp.com/"h4 class="text-white"> Rangga s </a></h4></td>
          </tr>
          <tr>
-          <h2 class="text-white font-weight-bold">Konten tugas google drive</h2>
+          <a href="https://drive.google.com/a/unikom.ac.id/file/d/1-LdcSwgzwN0-ZKodraTleJSVZb3r9pvU/view?usp=drivesdk"h2 class="text-white font-weight-bold">Review Firewall</a></h2>
         </tr>
       </table>
               </div>
