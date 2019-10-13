@@ -63,7 +63,7 @@
         <td><a href="https://tugas1-101162xx-13.herokuapp.com/"h4 class="text-white"> M Naufal fadhlur R | </a></h4></td>
         <td><a href="https://tugas1-101163xx-36.herokuapp.com/"h4 class="text-white"> Yogi Kusuma Santika | </a></h4></td>
         <td><a href="https://tugas1-101163xx-28.herokuapp.com"h4 class="text-white"> M Reza Febriana |</a> </h4></td>
-        <td><a href ="https://tugas1-101162xx-19.herokuapp.com/"h4 class="text-white"> Rangga s </h4></td>
+        <td><a href ="https://tugas1-101162xx-19.herokuapp.com/"h4 class="text-white"> Rangga s </a></h4></td>
          </tr>
            <h2 class="text-white font-weight-bold">Konten tugas google drive</h2>
 
