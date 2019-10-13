@@ -68,6 +68,7 @@
          <tr>
           <h2 class="text-white font-weight-bold">Konten tugas google drive</h2>
         </tr>
+      </table>
               </div>
 			  </center>
             </form>
